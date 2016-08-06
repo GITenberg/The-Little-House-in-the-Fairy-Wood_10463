@@ -1,0 +1,27 @@
+_repo: The-Little-House-in-the-Fairy-Wood_10463
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eliot, Ethel Cook
+    birthdate: 1890
+    deathdate: 1972
+    gutenberg_agent_id: '3546'
+    url: http://www.gutenberg.org/2009/agents/3546
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10463'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Fairies -- Juvenile fiction'
+- GITenberg
+title: The Little House in the Fairy Wood
+url: http://www.gutenberg.org/ebooks/10463
